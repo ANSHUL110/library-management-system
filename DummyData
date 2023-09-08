@@ -1,0 +1,29 @@
+
+
+
+*********************  Dummy Data   ***********************
+
+Books : 
+
+Book Name       ID   Copies
+
+machinelearing  404    2
+datastructures  202    3
+programming     101    1
+mathematics     303    2
+biology         505    1
+art             606    4 
+
+________________________________________
+
+Users: 
+
+USER NAME      ID
+
+mhmd           3030
+ahmd           1010 
+eslam          2020
+sama           4040
+
+
+
